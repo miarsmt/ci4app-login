@@ -16,6 +16,9 @@
                     <a class="nav-link" href="/contact">Contact</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="/comics">Comics</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link disabled">Disabled</a>
                 </li>
             </ul>

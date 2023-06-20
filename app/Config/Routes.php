@@ -33,6 +33,7 @@ $routes->get('/', 'Home::index');
 $routes->get('/pages', 'Pages::index');
 $routes->get('/about', 'Pages::about');
 $routes->get('/contact', 'Pages::contact');
+$routes->get('/comics', 'Comics::index');
 /*
  * --------------------------------------------------------------------
  * Additional Routing
