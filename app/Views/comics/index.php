@@ -20,7 +20,7 @@
                     <td><img src="/assets/img/<?= $c['cover']; ?>" alt="" class="sampul"></td>
                     <td><?= $c['title']; ?></td>
                     <td>
-                        <a href="" class="btn btn-success">Action</a>
+                        <a href="/comics/<?= $c['slug']; ?>" class="btn btn-success">Detail</a>
                     </td>
                 </tr>
             <?php endforeach; ?>
